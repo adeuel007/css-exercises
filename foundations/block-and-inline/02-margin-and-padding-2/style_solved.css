@@ -1,0 +1,39 @@
+body {
+  background: gray;
+  font-family: sans-serif;
+}
+
+
+
+.title,
+.content,
+.button-container {
+  background: #1e90ff;
+  margin: 10px;
+  padding: 10px;
+}
+
+.title {
+  margin: 10px;
+  font-size: 16px;
+}
+
+.card {
+  width: 400px;
+  background: white;
+  margin: 10px;
+  padding-top: 12px;
+  padding-bottom: 5px;
+}
+
+.button-container {
+  background: dodgerblue;
+  font-size: 16px;
+  margin: 10px;
+  text-align: center;
+}
+
+.button {
+  display: block;
+  margin: auto;
+}
